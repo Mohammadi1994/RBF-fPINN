@@ -6,4 +6,6 @@ a modified approach to solving fractional PDEs.
 
 All computational experiments are carried out in PyTorch, utilizing a single NVIDIA Tesla V100 graphics processing unit.
 
-[link](www.google.com)
+For more information, please refer to our paper:
+
+[Rbf-Fpinns: Radial Basis Function-Enhanced Fractional Physics-Informed Neural Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5072679)
