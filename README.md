@@ -21,3 +21,6 @@ For more information, please refer to our paper:
 }
 
 ```
+## Contact
+
+If you have any questions, please contact [Maryam Mohammadi](maryam.mohammadi.math@gmail.com).
