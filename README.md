@@ -5,3 +5,5 @@ framework integrates RBF neural networks with fundamental physical laws, showcas
 a modified approach to solving fractional PDEs.
 
 All computational experiments are carried out in PyTorch, utilizing a single NVIDIA Tesla V100 graphics processing unit.
+
+[link](www.google.com)
