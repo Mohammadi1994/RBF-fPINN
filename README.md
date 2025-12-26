@@ -9,3 +9,15 @@ All computational experiments are carried out in PyTorch, utilizing a single NVI
 For more information, please refer to our paper:
 
 [Rbf-Fpinns: Radial Basis Function-Enhanced Fractional Physics-Informed Neural Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5072679)
+
+## Citation
+
+```
+@article{Mohammadi2025RBF-fPINN,
+  title     = {RBF-fPINN: A Radial Basis Function Enhanced Fractional Physics-Informed Neural Network},
+  author    = {Maryam Mohammadi, Reza Mokhtari, Mohadese Ramezani},
+  journal   = {Engineering with Computers},
+  year      = {2025}
+}
+
+```
